@@ -13,13 +13,13 @@
     color: white;
     position: relative;
 }
-.volume-inc , .volume-dec ,.volume2 ,.power-btn{
+.volume-inc, .volume-dec, .volume2, .power-btn{
     height: 60px;
     width: 10px;
     background-color: black;
     border-radius: 10px;
     position: absolute;
-    left: 605.5px;
+    left: 690px;
     top: 290px;
 }
 .volume-dec{
@@ -33,7 +33,7 @@
 .power-btn{
     height: 90px;
     top: 170px;
-    left: 300px;
+    left: 299px;
 }
 .box{
     height: 570px;
